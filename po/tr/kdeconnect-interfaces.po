@@ -3,6 +3,7 @@
 #
 # Volkan Gezer <volkangezer@gmail.com>, 2021.
 # Emir SARI <emir_sari@icloud.com>, 2022.
+# Hasan YILDIZ <hasanyildiz1071@yandex.com>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: kdeconnect-kde\n"
